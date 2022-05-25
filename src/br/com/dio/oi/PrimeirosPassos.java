@@ -22,6 +22,6 @@ public class PrimeirosPassos {
         System.out.println(k);
         System.out.println(quantidadeProdutos);
         System.out.println(i);
-
+        //oi
     }
 }

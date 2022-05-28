@@ -1,4 +1,4 @@
-package br.com.dio.oi;
+package br.com.dio.estudoJava;
 
 public class tiposdedados {
     public static void main(String[] args) {
@@ -16,7 +16,7 @@ public class tiposdedados {
         //long l2 = 1000000000000000000; falta o "L"
 
         float f1 = 4.5f;
-        //float f2 = 4.5; flata "f"
+        //float f2 = 4.5; falta "f"
 
         double d1 = 85.49;
         double d2 = 4.5;

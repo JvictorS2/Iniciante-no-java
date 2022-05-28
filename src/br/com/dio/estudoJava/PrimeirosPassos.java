@@ -1,4 +1,4 @@
-package br.com.dio.oi;
+package br.com.dio.estudoJava;
 
 public class PrimeirosPassos {
     public static void main(String[] args) {

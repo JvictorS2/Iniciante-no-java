@@ -1,4 +1,4 @@
-package br.com.dio.estudoJava;
+package br.com.dio.estudoJava.topics;
 
 public class PrimeirosPassos {
     public static void main(String[] args) {
